@@ -5,8 +5,9 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
+- 🚩 I’m currently working Software Engineering
 
-- 🌱 I’m currently learning GitHub,Java
+- 👨🏼‍💻 I’m currently learning GitHub,Java
   
 - 👯 I’m looking to collaborate on Proyectos
   
