@@ -2,7 +2,7 @@
 <h3 align="center" >Undergraduate BSc(Hons) Software Engineering Plymouth University  </h3>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture> About me
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 - 🚩 I’m currently working Software Engineering
